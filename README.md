@@ -1,16 +1,15 @@
-## Hi there 👋
+<h1 align="center">hi there, i'm suslegger!</h1>
+<h2 align="center">welcome to my profile 👋🏻</h2>
+<h3 align="center">23 y.o student 🎓</h3>
 
-<!--
-**suslegger/suslegger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">Currently learning:</h3>
+<p align="center">
+    <img alt="Go" src="https://img.shields.io/badge/go-gray?style=for-the-badge&logo=go">
+    <img alt="Docker" src="https://img.shields.io/badge/docker-gray?style=for-the-badge&logo=docker">
+    <img alt="Kubernetes" src="https://img.shields.io/badge/kubernetes-gray?style=for-the-badge&logo=kubernetes">
+</p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="center">My projects:</h3>
+<p align="center">
+    <strong><a href="https://github.com/suslegger/PracticeTravelPlanningApp">Travel planning app</a></strong>
+</p>
